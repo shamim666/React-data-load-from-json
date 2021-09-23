@@ -1,0 +1,22 @@
+[
+    {
+      "id": 0,
+      "name": "Alta",
+      "price": 1000
+    },
+    {
+      "id": 1,
+      "name": "Nail Polish",
+      "price": 2000
+    },
+    {
+      "id": 2,
+      "name": "Eye Line",
+      "price": 3000
+    },
+    {
+      "id": 3,
+      "name": "Maskara",
+      "price": 4000
+    }
+  ]
